@@ -3,7 +3,7 @@ import google.generativeai as genai
 import random
 
 # Configure the API key
-api_key = "AIzaSyCAlM0Y_qZ1OlLc7eXqHnBa8Vr2SM8iqG8"  # Replace with your actual API key
+api_key = "AIzaSyA5NQr8p7qAzSfaaimUmQCweJexYWMi1Lc"  # Replace with your actual API key
 genai.configure(api_key=api_key)
 
 # Model configuration
